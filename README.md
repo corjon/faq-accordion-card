@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontEnd Mentor](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/faq-accordion-card-no-javascript-solution-YBzxhHjqkv)
+- Live Site URL: [GitHub Pages](https://corjon.github.io/faq-accordion-card/)
 
 ## My process
 
